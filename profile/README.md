@@ -1,6 +1,6 @@
 # Classic36 Media
 
-We (there is no "we" - it's just me, Classic36) create stuff for Minecraft Java Edition. Sometimes that stuff is actually useful.
+Creating stuff (mainly data packs & resource packs) for Minecraft Java Edition. Sometimes that stuff is actually useful.
 
 **Links:**
 - [Better Craftables](https://modrinth.com/datapack/better-craftables), a Minecraft data pack
