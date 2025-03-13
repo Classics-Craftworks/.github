@@ -17,4 +17,4 @@ New Sword Blocking | Data Pack | [Link](https://github.com/Classic36-Media/New-S
 
 ***
 
-###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+###### Not an official Minecraft product or service. Not approved by or associated with Mojang or Microsoft.
