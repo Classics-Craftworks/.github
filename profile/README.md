@@ -11,6 +11,7 @@ Better Unpackables | Data Pack & Mod | [Link](https://github.com/Classic36-Media
 Silly Eatables | Data Pack & Mod | [Link](https://github.com/Classic36-Media/Silly-Eatables) | [Link](https://modrinth.com/datapack/silly-eatables) | [Link](https://www.spigotmc.org/resources/silly-eatables.116362)
 Classic's Disc Tweaks | Resource Pack | [Link](https://github.com/Classic36-Media/Classics-Disc-Tweaks) | [Link](https://modrinth.com/resourcepack/classics-disc-tweaks) | N/A
 New Sword Blocking | Data Pack & Mod | [Link](https://github.com/Classic36-Media/New-Sword-Blocking) | [Link](https://modrinth.com/datapack/new-sword-blocking) | [Link](https://www.spigotmc.org/resources/new-sword-blocking.123532)
+Classic's Dye Tweaks | Resource Pack | [Link](https://github.com/Classic36-Media/Classics-Dye-Tweaks) | [Link](https://modrinth.com/resourcepack/classics-dye-tweaks) (Coming Soon) | N/A
 
 ## Support:
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
