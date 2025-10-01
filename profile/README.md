@@ -11,6 +11,7 @@ Better Unpackables | Data Pack & Mod | [Link](https://github.com/Classics-Craftw
 Silly Eatables | Data Pack & Mod | [Link](https://github.com/Classics-Craftworks/Silly-Eatables) | [Link](https://modrinth.com/datapack/silly-eatables) | [Link](https://www.spigotmc.org/resources/silly-eatables.116362)
 Classic's Disc Tweaks | Resource Pack | [Link](https://github.com/Classics-Craftworks/Classics-Disc-Tweaks) | [Link](https://modrinth.com/resourcepack/classics-disc-tweaks) | N/A
 Classic's Dye Tweaks | Resource Pack | [Link](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks) | [Link](https://modrinth.com/resourcepack/classics-dye-tweaks) | N/A
+Classic's Lantern Tweaks | Resource Pack | [Link](https://github.com/Classics-Craftworks/Classics-Lantern-Tweaks) | [Link](https://modrinth.com/resourcepack/classics-lantern-tweaks) | N/A
 
 ## Support:
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
