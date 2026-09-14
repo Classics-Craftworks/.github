@@ -1,6 +1,6 @@
 # Classic's Craftworks
 
-Creating data packs, mods & resource packs for Minecraft Java Edition. Sometimes they're actually useful.
+Minecraft Java Edition data packs, mods & resource packs. Sometimes useful. Always Minecraft.
 
 ## Links:
 
